@@ -20,5 +20,5 @@ def mcmerchCalculator():
     result = arguments['price'] * arguments['quantity'] * (1 + tax)
     rounded_result = round(result, 2)  # Round the result to 2 decimal places
     print(rounded_result)
-#bodyvbuilding
+#thisguy
 mcmerchCalculator()
